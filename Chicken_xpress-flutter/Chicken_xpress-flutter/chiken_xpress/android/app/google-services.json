@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543039180448",
+    "project_id": "checken-xpress",
+    "storage_bucket": "checken-xpress.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543039180448:android:17d107a2c61cb9d0ae03c5",
+        "android_client_info": {
+          "package_name": "com.chiken.chiken_xpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543039180448-7m6agdj0bl75qv2l9gsuin39qdlvj6ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa0JB29SN_ol3BORjO_s21HHm_BssAvYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543039180448-7m6agdj0bl75qv2l9gsuin39qdlvj6ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
